@@ -1,0 +1,17 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   courses/classroom/android-app-development.html
+#	modified:   courses/pandora2.html
+#
+# Untracked files:
+#	courses/django.html
+#	courses/classroom/web-development-nodejs.html
+#	img/cb/student/divyam_shah.jpg
+#	img/cb/student/rishab.jpg
+#
+
